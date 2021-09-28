@@ -1,0 +1,166 @@
+{% extends 'partials/base.html' %}
+{% block title %}Home Page{% endblock %}
+{% block content %}
+<div class="row mt-3 pt-3">
+    <div class="col-md-4">
+        {% include 'partials/slider.html' %}
+    </div>
+    <div class="col-md-8">
+        {% include 'partials/dashboard-top.html' %}
+    </div>
+</div>
+<div class="row mt-5">
+    <div class="col-md-12">
+        <div class="border p-2 bg-white">
+            <h1 class="text-center">Statistics</h1>
+        </div>
+    </div>
+</div>
+<div class="row my-3">
+    <div class="col-md-6">
+        <div class="bg-white">
+            <h3 class="text-center py-2">Top 5 Incident Locations: {{ accra }}</h3>
+            <hr>
+            <canvas id="myChart3" width="400" height="300"></canvas>
+            <script>
+                var ctx = document.getElementById('myChart3').getContext('2d');
+                var myChart3 = new Chart(ctx, {
+                    type: 'line',
+                    data: {
+                        labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple'],
+                        datasets: [{
+                            label: '# of Votes',
+                            data: [12, 19, 3, 5, 2],
+                            backgroundColor: [
+                                'rgba(255, 99, 132, 0.2)',
+                                'rgba(54, 162, 235, 0.2)',
+                                'rgba(255, 206, 86, 0.2)',
+                                'rgba(75, 192, 192, 0.2)',
+                                'rgba(153, 102, 255, 0.2)',
+                            ],
+                            borderColor: [
+                                'rgba(255, 99, 132, 1)',
+                                'rgba(54, 162, 235, 1)',
+                                'rgba(255, 206, 86, 1)',
+                                'rgba(75, 192, 192, 1)',
+                                'rgba(153, 102, 255, 1)',
+
+                            ],
+                            borderWidth: 1
+                        }]
+                    },
+                    options: {
+                        scales: {
+                            yAxes: [{
+                                ticks: {
+                                    beginAtZero: true
+                                }
+                            }]
+                        }
+                    }
+                });
+            </script>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="bg-white">
+            <h3 class="text-center py-2">Incident Distribution</h3>
+            <hr>
+            <canvas id="myChart4" width="400" height="300"></canvas>
+            <script>
+                var ctx = document.getElementById('myChart4').getContext('2d');
+                var myChart4 = new Chart(ctx, {
+                    type: 'pie',
+                    data: {
+                        labels: {{ pie_labels| safe }},
+                datasets: [{
+                    label: '',
+                    data: {{ pie_data| safe }},
+                    backgroundColor: [
+                    'rgba(255, 99, 132, 1)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                ],
+                    borderColor: [
+                    'rgba(255, 99, 132, 1)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                ],
+                    borderWidth: 2
+                        }]
+                    },
+                options: {
+                    scales: {
+                        yAxes: [{
+                            ticks: {
+                                beginAtZero: true
+                            }
+                        }]
+                    }
+                }
+                });
+            </script>
+        </div>
+    </div>
+</div>
+<div class="row my-5">
+    <div class="col-md-12">
+        <div class="bg-white">
+            <h3 class="text-center py-2">Annual Distribution</h3>
+            <hr>
+            <canvas id="myChart" width="400" height="170"></canvas>
+            <script>
+                var ctx = document.getElementById('myChart').getContext('2d');
+                var myChart = new Chart(ctx, {
+                    type: 'bar',
+                    data: {
+                        labels: {{ bar_labels| safe }},
+                datasets: [{
+                    label: 'Number of Incidents per Month',
+                    data: {{ bar_data| safe }},
+                    backgroundColor: [
+                    'rgba(255, 99, 132, 1)',
+                    'rgba(54, 62, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(15, 102, 55, 1)',
+                    'rgba(255, 159, 64, 1)',
+                    'rgba(50, 159, 164, 1)',
+                    'rgba(25, 19, 24, 1)',
+                    'rgba(25, 159, 264, 1)',
+                    'rgba(55, 159, 4, 1)',
+                    'rgba(255, 19, 64, 1)',
+                    'rgba(5, 15, 64, 1)',
+                ],
+                    borderColor: [
+                    'rgba(255, 99, 132, 1)',
+                    'rgba(54, 162, 235, 1)',
+                    'rgba(255, 206, 86, 1)',
+                    'rgba(75, 192, 192, 1)',
+                    'rgba(15, 102, 55, 1)',
+                    'rgba(255, 159, 64, 1)',
+                    'rgba(50, 159, 164, 1)',
+                    'rgba(25, 19, 24, 1)',
+                    'rgba(25, 159, 264, 1)',
+                    'rgba(55, 159, 4, 1)',
+                    'rgba(255, 19, 64, 1)',
+                    'rgba(5, 15, 64, 1)',
+                ],
+                    borderWidth: 1
+                }]
+                    },
+                options: {
+                    scales: {
+                        yAxes: [{
+                            ticks: {
+                                beginAtZero: true
+                            }
+                        }]
+                    }
+                }
+                });
+            </script>
+        </div>
+    </div>
+</div>
+{% endblock %}

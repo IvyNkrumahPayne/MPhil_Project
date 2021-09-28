@@ -1,0 +1,47 @@
+{% extends 'partials/base.html' %}
+{% block title %}Map Page{% endblock %}
+{% block content %}
+<div class="row mt-3 pt-3">
+    <div class="col-md-4">
+        <div class="border bg-white p-3">
+            <a class="btn btn-info btn-sm" href="{% url 'dashboard-incident' %}">Back</a>
+            <hr>
+            <h3>Incident Information</h3>
+            <hr>
+            <table class="table table-borderless">
+                <tbody>
+                    <tr>
+                        <th scope="row">Date</th>
+                        <td>{{ incident.date_and_time|date:"F d, Y" }}</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Time</th>
+                        <td>{{ incident.date_and_time|date:"g:i A" }}</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Category</th>
+                        <td>{{ incident.type }}</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">City</th>
+                        <td>{{ incident.city }}</td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Latitude</th>
+                        <td><span>{{ incident.lat}}<sup>0</sup>
+                            </span></td>
+                    </tr>
+                    <tr>
+                        <th scope="row">Longitude</th>
+                        <td><span>{{ incident.lng }}<sup>0</sup>
+                            </span></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <div class="col-md-8">
+        {{ m|safe }}
+    </div>
+</div>
+{% endblock %}
