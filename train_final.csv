@@ -1,0 +1,1544 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+r49.jpg,275,183,robbery,21,2,260,183
+r49.jpg,275,183,robbery,31,20,246,165
+r49.jpg,275,183,robbery,31,93,235,164
+oc51.jpg,474,215,occlusion,78,4,388,161
+la25.JPEG,470,310,logical attack,3,8,461,285
+la25.JPEG,470,310,logical attack,5,140,437,256
+sk12.jpg,311,162,skimming,213,53,307,159
+sk12.jpg,311,162,skimming,104,57,205,155
+sk12.jpg,311,162,skimming,105,5,215,162
+sk12.jpg,311,162,skimming,158,58,204,115
+oc62.jpg,474,632,occlusion,62,20,430,373
+sk18.jpg,265,190,skimming,35,4,265,178
+sk18.jpg,265,190,skimming,40,17,168,173
+sk18.jpg,265,190,skimming,53,103,125,167
+sk18.jpg,265,190,skimming,55,60,162,166
+r37.jpg,273,185,robbery,155,69,261,185
+r83.jpg,300,168,robbery,14,13,278,168
+r83.jpg,300,168,robbery,31,20,201,126
+ctpn15.JPEG,474,331,card trapping,163,43,377,231
+ctpn15.JPEG,474,331,card trapping,239,131,366,222
+ctpn29.JPEG,474,274,card trapping,138,175,197,274
+ctpn29.JPEG,474,274,card trapping,323,174,452,247
+pa33.png,225,225,physical attack,2,94,225,150
+sk3.jpg,310,163,skimming,2,1,158,156
+sk3.jpg,310,163,skimming,170,12,310,161
+sk3.jpg,310,163,skimming,118,39,155,73
+sk3.jpg,310,163,skimming,238,66,310,140
+r35.jpg,272,185,robbery,18,1,272,181
+r35.jpg,272,185,robbery,69,2,202,185
+n184.jpg,474,474,normal,125,131,366,408
+n118.jpg,474,442,normal,1,4,474,440
+n118.jpg,474,442,normal,15,9,474,318
+n118.jpg,474,442,normal,73,81,323,270
+sk10.jpg,194,259,skimming,7,4,193,259
+sk10.jpg,194,259,skimming,42,64,188,253
+sk10.jpg,194,259,skimming,61,82,183,201
+j23.jpg,275,183,jackpotting,3,3,269,182
+j23.jpg,275,183,jackpotting,69,5,248,183
+j23.jpg,275,183,jackpotting,127,7,245,128
+cash tpn42.jpg,474,355,cash trapping,100,109,292,277
+n143.jpg,474,266,normal,55,5,474,264
+n143.jpg,474,266,normal,75,63,466,230
+trf5.jpg,2122,1412,transaction reversal fraud,191,68,2122,1153
+n206.jpg,269,160,normal,6,25,261,155
+n206.jpg,269,160,normal,16,26,258,132
+n206.jpg,269,160,normal,34,5,267,160
+n206.jpg,269,160,normal,82,17,253,124
+pa102.jpg,263,192,physical attack,113,44,263,176
+pa102.jpg,263,192,physical attack,117,53,238,134
+pa102.jpg,263,192,physical attack,117,48,257,140
+oc28.jpg,474,510,occlusion,11,21,465,510
+oc28.jpg,474,510,occlusion,31,13,391,327
+pa118.jpg,300,168,physical attack,4,14,298,150
+pa118.jpg,300,168,physical attack,28,22,300,115
+pa118.jpg,300,168,physical attack,13,19,198,151
+pa117.jpg,225,225,physical attack,8,3,221,225
+pa117.jpg,225,225,physical attack,1,2,225,116
+la15..JPEG,474,316,logical attack,13,12,361,316
+la15..JPEG,474,316,logical attack,9,68,345,316
+la15..JPEG,474,316,logical attack,35,149,271,316
+la15..JPEG,474,316,logical attack,133,11,361,292
+n109.jpg,400,285,normal,2,3,398,260
+oc72.jpg,474,708,occlusion,24,149,474,525
+la10.jpg,267,189,logical attack,2,5,267,78
+la10.jpg,267,189,logical attack,5,4,267,179
+la10.jpg,267,189,logical attack,55,2,267,181
+la10.jpg,267,189,logical attack,3,3,264,81
+la10.jpg,267,189,logical attack,61,6,264,189
+ctpn39.JPEG,474,1201,card trapping,8,396,465,522
+ctpn39.JPEG,474,1201,card trapping,2,271,474,620
+ctpn39.JPEG,474,1201,card trapping,10,924,468,1171
+ctpn39.JPEG,474,1201,card trapping,19,641,452,903
+r27.jpg,306,412,robbery,3,130,275,219
+r27.jpg,306,412,robbery,2,16,306,123
+cash tpn39.jpg,474,741,cash trapping,127,550,345,623
+n64.jpg,474,286,normal,5,2,474,281
+n64.jpg,474,286,normal,53,69,468,273
+cash tpn33.jpg,474,269,cash trapping,5,10,474,264
+cash tpn33.jpg,474,269,cash trapping,13,48,329,250
+n201.jpg,474,316,normal,115,6,474,300
+pa73.jpg,275,183,physical attack,16,5,274,183
+pa73.jpg,275,183,physical attack,23,12,184,183
+pa73.jpg,275,183,physical attack,30,16,143,93
+pa73.jpg,275,183,physical attack,33,5,120,62
+cash tpn20.jpg,474,125,cash trapping,18,9,468,92
+cash tpn20.jpg,474,125,cash trapping,28,27,250,79
+n100.jpg,474,348,normal,5,3,471,309
+n168.jpg,474,952,normal,196,238,408,641
+n212.jpg,243,160,normal,3,1,239,160
+n212.jpg,243,160,normal,10,1,137,160
+n212.jpg,243,160,normal,130,2,243,152
+n212.jpg,243,160,normal,2,3,243,79
+n212.jpg,243,160,normal,70,15,131,160
+pa22.jpg,301,167,physical attack,8,6,284,155
+pa22.jpg,301,167,physical attack,1,1,103,60
+pa22.jpg,301,167,physical attack,1,1,293,167
+n190.jpg,474,266,normal,3,7,256,266
+n117.jpg,474,474,normal,4,6,474,470
+n193.jpg,474,316,normal,10,2,443,122
+sk21.jpg,318,159,skimming,4,1,279,159
+sk21.jpg,318,159,skimming,48,1,316,159
+sk21.jpg,318,159,skimming,56,19,230,148
+n160.jpg,474,632,normal,47,25,316,457
+pa94.jpg,284,177,physical attack,120,26,284,158
+pa122.jpg,310,163,physical attack,34,46,310,127
+pa122.jpg,310,163,physical attack,14,54,292,148
+atm im 2.jpg,286,176,skimming,187,1,286,107
+n102.jpg,474,314,normal,34,16,474,298
+la19.JPEG,474,419,logical attack,367,227,456,354
+la19.JPEG,474,419,logical attack,365,234,414,334
+cash tpn45.jpg,474,266,cash trapping,185,125,311,248
+cash tpn34.jpg,474,632,cash trapping,13,402,459,592
+m50.jpg,474,266,malware,2,10,470,266
+m50.jpg,474,266,malware,74,7,470,266
+m50.jpg,474,266,malware,82,29,460,205
+m50.jpg,474,266,malware,122,1,458,230
+r78.jpg,259,194,robbery,63,29,161,137
+pa113.jpg,327,154,physical attack,4,7,280,154
+pa113.jpg,327,154,physical attack,3,64,180,154
+pa113.jpg,327,154,physical attack,3,12,256,154
+n43.jpg,200,160,normal,2,1,200,159
+n43.jpg,200,160,normal,19,33,199,160
+r90.jpg,221,228,robbery,8,1,184,228
+r90.jpg,221,228,robbery,18,16,111,57
+r90.jpg,221,228,robbery,12,3,180,78
+atm8.jpg,278,181,physical attack,113,29,278,150
+n211.jpg,217,160,normal,4,1,217,143
+n211.jpg,217,160,normal,39,27,200,140
+n211.jpg,217,160,normal,128,3,217,148
+n211.jpg,217,160,normal,30,3,66,143
+n97.jpg,474,474,normal,7,3,426,474
+oc36.jpg,474,347,occlusion,16,1,467,292
+oc36.jpg,474,347,occlusion,65,23,443,224
+oc36.jpg,474,347,occlusion,200,3,429,198
+n44.jpg,474,662,normal,14,7,473,654
+n44.jpg,474,662,normal,6,13,473,422
+R14.jpg,300,168,robbery,21,7,250,160
+R14.jpg,300,168,robbery,66,47,174,168
+ctpn22.JPEG,474,291,card trapping,5,5,474,288
+ctpn22.JPEG,474,291,card trapping,223,6,464,271
+ctpn22.JPEG,474,291,card trapping,5,44,470,185
+n36.jpg,474,355,normal,5,2,473,349
+n36.jpg,474,355,normal,10,57,473,295
+n36.jpg,474,355,normal,138,60,474,265
+n93.jpg,474,355,normal,5,7,465,355
+n93.jpg,474,355,normal,28,3,305,355
+r82.jpg,299,168,robbery,109,61,220,148
+r82.jpg,299,168,robbery,67,70,238,166
+trf29.jpg,194,259,physical attack,1,6,189,259
+trf29.jpg,194,259,physical attack,2,142,182,209
+r17.jpg,300,168,robbery,95,3,300,165
+r46.jpg,259,194,robbery,70,47,256,192
+r46.jpg,259,194,robbery,91,1,259,190
+m69.jpg,240,227,malware,67,1,235,227
+m69.jpg,240,227,malware,3,2,238,227
+m69.jpg,240,227,malware,75,41,192,227
+m66.jpg,474,342,malware,129,180,210,263
+m20.jpg,474,248,malware,3,3,474,245
+m20.jpg,474,248,malware,7,6,415,242
+m20.jpg,474,248,malware,161,8,474,233
+m43.jpg,474,296,malware,8,5,474,292
+m43.jpg,474,296,malware,1,32,468,291
+pa81.jpg,259,194,physical attack,3,4,259,190
+pa81.jpg,259,194,physical attack,10,7,258,117
+n19.jpg,390,399,normal,5,9,390,394
+n19.jpg,390,399,normal,2,13,222,399
+n19.jpg,390,399,normal,5,5,390,327
+m30.jpg,474,355,malware,110,135,412,348
+m30.jpg,474,355,malware,198,182,298,355
+pa35.jpg,259,194,physical attack,197,42,247,59
+m68.jpg,474,311,malware,163,183,250,253
+trf25.jpg,300,168,physical attack,67,26,241,168
+trf25.jpg,300,168,physical attack,53,42,250,168
+la4.jpg,189,267,logical attack,10,42,173,267
+la4.jpg,189,267,logical attack,24,39,150,204
+sk20.jpg,299,168,skimming,5,1,265,168
+sk20.jpg,299,168,skimming,32,3,250,144
+sk20.jpg,299,168,skimming,54,12,208,60
+sk20.jpg,299,168,skimming,50,18,246,160
+n23.jpg,298,470,normal,3,25,294,306
+n23.jpg,298,470,normal,6,4,298,276
+n115.jpg,474,711,normal,4,62,474,673
+n115.jpg,474,711,normal,128,298,286,499
+n186.jpg,474,632,normal,131,259,321,378
+trf12.jpg,275,183,transaction reversal fraud,116,1,275,152
+ATM tampering_4.jpg,725,380,skimming,157,36,356,311
+ATM tampering_4.jpg,725,380,physical attack,367,116,617,326
+ctpn45.JPEG,474,265,card trapping,286,79,375,229
+ctpn45.JPEG,474,265,card trapping,298,83,318,160
+ctpn45.JPEG,474,265,card trapping,114,110,408,265
+n42.jpg,213,160,normal,19,34,211,158
+r79.jpg,259,194,robbery,74,9,259,191
+r79.jpg,259,194,robbery,57,3,257,141
+r79.jpg,259,194,robbery,78,9,163,143
+r79.jpg,259,194,robbery,2,68,249,194
+n89.jpg,474,576,normal,11,5,470,576
+ctpn38.JPEG,474,638,card trapping,4,18,467,638
+ctpn38.JPEG,474,638,card trapping,72,53,474,599
+ctpn38.JPEG,474,638,card trapping,16,94,466,628
+ctpn40.JPEG,474,355,card trapping,21,4,473,266
+ctpn40.JPEG,474,355,card trapping,71,2,406,286
+ctpn40.JPEG,474,355,card trapping,196,8,374,253
+ctpn40.JPEG,474,355,card trapping,65,34,325,269
+n177.jpg,474,547,normal,68,157,446,474
+atm3.jpg,600,300,physical attack,286,2,597,300
+fa4.jpg,310,162,logical attack,1,5,269,158
+m41.jpg,474,210,malware,73,43,449,210
+os28.jpg,259,194,ATM out of service,32,34,176,136
+os7.jpg,259,194,ATM out of service,1,8,258,194
+os7.jpg,259,194,ATM out of service,22,24,249,183
+sk25.jpg,213,237,skimming,35,42,144,184
+oc56.jpg,474,482,occlusion,88,19,394,350
+cash tpn41.jpg,474,355,cash trapping,7,2,470,347
+pa112.png,224,224,physical attack,1,92,224,156
+pa112.png,224,224,physical attack,3,90,224,147
+pa112.png,224,224,physical attack,2,69,224,177
+pa26.jpg,243,207,physical attack,35,11,236,202
+pa26.jpg,243,207,physical attack,30,1,243,201
+j11.jpg,311,162,jackpotting,5,5,309,162
+j11.jpg,311,162,jackpotting,96,1,310,162
+sk8.jpg,300,168,skimming,90,4,214,168
+sk8.jpg,300,168,skimming,94,57,210,168
+n171.jpg,474,327,normal,308,67,448,188
+pa110.jpg,225,225,physical attack,136,7,225,218
+os10.jpg,259,194,ATM out of service,32,59,232,190
+oc45.jpg,474,474,occlusion,98,19,386,473
+oc45.jpg,474,474,occlusion,60,19,404,275
+n195.jpg,474,355,normal,175,53,437,355
+fa2.jpg,259,194,cash trapping ,10,14,211,184
+la8.jpg,263,192,logical attack,12,4,259,192
+la8.jpg,263,192,logical attack,36,57,197,161
+la8.jpg,263,192,logical attack,44,28,198,192
+la8.jpg,263,192,logical attack,48,50,193,168
+atm11.jpg,317,159,skimming,62,33,224,130
+trf16.jpg,275,183,transaction reversal fraud,36,5,271,182
+n178.jpg,450,800,normal,106,353,311,779
+cash tpn55.jpg,474,125,cash trapping,53,8,223,92
+trf18.jpg,259,194,transaction reversal fraud,2,1,253,191
+trf18.jpg,259,194,transaction reversal fraud,4,8,256,125
+n14.jpg,474,266,normal,10,41,473,180
+n14.jpg,474,266,normal,328,42,473,187
+n12.jpg,400,427,normal,58,126,355,422
+n12.jpg,400,427,normal,70,135,332,266
+j4.jpg,264,191,jackpotting,9,49,236,189
+j4.jpg,264,191,jackpotting,17,56,113,191
+j4.jpg,264,191,jackpotting,67,68,235,187
+cash tpn19.jpg,474,274,cash trapping,123,175,210,271
+la16.JPEG,398,559,logical attack,27,112,383,373
+cash tpn61.jpg,474,346,cash trapping,261,14,473,245
+oc49.jpg,474,266,occlusion,63,7,240,208
+oc49.jpg,474,266,occlusion,228,1,466,255
+cash tpn35.jpg,474,257,cash trapping,9,6,474,253
+cash tpn35.jpg,474,257,cash trapping,15,42,424,257
+n74.jpg,474,474,normal,15,82,474,459
+n74.jpg,474,474,normal,41,64,473,463
+n54.jpg,474,889,normal,51,220,293,748
+n187.jpg,474,252,normal,14,33,458,252
+n187.jpg,474,252,normal,308,10,449,247
+n187.jpg,474,252,normal,175,20,300,248
+n187.jpg,474,252,normal,82,28,171,251
+n170.jpg,474,266,normal,5,3,467,266
+n170.jpg,474,266,normal,221,1,468,266
+oc73.jpg,474,626,occlusion,30,20,472,293
+n86.jpg,474,266,normal,5,21,474,251
+oc50.jpg,474,474,occlusion,70,14,436,474
+m38.jpg,474,273,malware,4,16,261,268
+m27.jpg,474,206,malware,373,49,451,81
+os6.jpg,225,225,ATM out of service,38,42,182,157
+cash tpn31.jpg,474,315,cash trapping,13,5,473,312
+cash tpn31.jpg,474,315,cash trapping,52,87,473,315
+cash tpn31.jpg,474,315,cash trapping,102,6,468,301
+sk17.jpg,265,190,skimming,21,5,209,190
+sk17.jpg,265,190,skimming,68,60,192,175
+la12.JPEG,474,265,logical attack,29,11,249,112
+la12.JPEG,474,265,logical attack,114,7,348,239
+la12.JPEG,474,265,logical attack,132,59,228,118
+pa131.jpg,300,168,physical attack,17,7,142,99
+pa131.jpg,300,168,physical attack,1,1,150,168
+m24.jpg,474,221,malware,5,5,474,218
+m24.jpg,474,221,malware,17,18,465,221
+m24.jpg,474,221,malware,9,39,468,199
+m24.jpg,474,221,malware,33,100,474,212
+j5.jpg,300,168,jackpotting,5,2,300,167
+j5.jpg,300,168,jackpotting,1,1,166,113
+la6.jpg,189,266,logical attack,4,30,189,218
+la6.jpg,189,266,logical attack,15,41,178,216
+la6.jpg,189,266,logical attack,39,73,185,264
+la6.jpg,189,266,logical attack,55,102,88,155
+n39.jpg,150,160,normal,5,3,147,160
+n39.jpg,150,160,normal,11,6,147,127
+n39.jpg,150,160,normal,44,9,145,123
+trf4.jpg,289,174,transaction reversal fraud,12,4,289,173
+trf4.jpg,289,174,transaction reversal fraud,6,4,259,152
+pa10.jpg,260,194,physical attack,77,1,239,161
+pa10.jpg,260,194,physical attack,88,10,234,105
+n140.jpg,474,355,normal,284,97,350,306
+n30.jpg,474,355,normal,2,3,474,352
+n30.jpg,474,355,normal,118,5,470,355
+n30.jpg,474,355,normal,165,12,467,245
+r39.jpg,260,194,robbery,58,8,249,194
+r39.jpg,260,194,robbery,126,83,260,192
+fa5.jpg,277,182,occlusion,103,1,162,52
+fa5.jpg,277,182,physical attack,3,1,260,182
+m40.jpg,474,247,malware,19,2,285,244
+m40.jpg,474,247,malware,8,3,474,243
+m40.jpg,474,247,malware,15,11,167,227
+m40.jpg,474,247,malware,1,2,474,166
+oc23.jpg,385,385,occlusion,87,19,350,307
+oc23.jpg,385,385,occlusion,31,3,385,379
+m22.jpg,474,311,malware,126,22,311,311
+m22.jpg,474,311,malware,112,231,278,311
+n199.jpg,300,199,normal,5,5,300,194
+n199.jpg,300,199,normal,8,53,225,182
+n199.jpg,300,199,normal,24,1,288,165
+os26.jpg,300,168,ATM out of service,20,10,290,163
+os26.jpg,300,168,ATM out of service,32,25,225,150
+oc34.jpg,474,355,occlusion,176,75,358,331
+r88.jpg,275,183,robbery,61,9,266,183
+r88.jpg,275,183,robbery,83,26,217,146
+r88.jpg,275,183,robbery,160,108,274,176
+r88.jpg,275,183,robbery,153,77,260,181
+n79.jpg,474,948,normal,57,2,339,948
+ctpn33.JPG,220,300,card trapping,6,6,192,300
+ctpn33.JPG,220,300,card trapping,3,34,177,265
+m49.jpg,474,204,malware,26,143,427,194
+m49.jpg,474,204,malware,1,57,474,198
+pa38.jpg,294,172,physical attack,1,3,294,171
+pa38.jpg,294,172,physical attack,50,2,293,172
+pa38.jpg,294,172,physical attack,128,2,291,82
+pa38.jpg,294,172,physical attack,59,81,219,172
+pa38.jpg,294,172,physical attack,119,1,237,172
+ATM tampering_1.jpg,750,500,logical attack,491,86,536,121
+la5.jpg,389,129,logical attack,40,8,367,129
+la5.jpg,389,129,logical attack,55,16,316,127
+r63.jpg,276,183,robbery,67,8,272,183
+r63.jpg,276,183,robbery,53,1,271,96
+n35.jpg,474,332,normal,15,2,473,324
+n35.jpg,474,332,normal,35,5,474,301
+n35.jpg,474,332,normal,63,5,338,222
+oc60.jpg,300,470,occlusion,79,29,266,263
+oc60.jpg,300,470,occlusion,86,32,238,211
+os27.jpg,219,224,ATM out of service,1,2,219,219
+os27.jpg,219,224,ATM out of service,12,74,209,179
+os27.jpg,219,224,ATM out of service,37,83,174,163
+r18.jpg,275,183,robbery,72,1,256,178
+m19.jpg,474,419,malware,170,187,473,397
+m19.jpg,474,419,malware,182,174,376,373
+m19.jpg,474,419,malware,159,67,337,373
+ATM tampering_3.jpg,759,422,physical attack,321,75,393,351
+pa7.jpg,311,162,physical attack,55,1,237,160
+pa7.jpg,311,162,physical attack,65,1,247,121
+j10.jpg,318,159,jackpotting,3,3,318,158
+j10.jpg,318,159,jackpotting,4,2,226,159
+j10.jpg,318,159,jackpotting,8,8,221,159
+j10.jpg,318,159,jackpotting,93,24,215,159
+r30.jpg,300,168,robbery,114,34,250,164
+oc48.jpg,338,225,occlusion,30,4,208,225
+oc48.jpg,338,225,occlusion,4,1,293,109
+r41.jpg,216,233,robbery,42,24,180,203
+pa101.jpg,300,168,physical attack,4,42,233,167
+pa101.jpg,300,168,physical attack,36,48,216,142
+pa101.jpg,300,168,physical attack,94,31,223,95
+pa101.jpg,300,168,physical attack,75,28,221,142
+r47.jpg,1600,1167,robbery,314,4,1136,521
+m31.jpg,474,342,malware,30,130,398,324
+m31.jpg,474,342,malware,23,104,253,260
+m31.jpg,474,342,malware,44,143,199,340
+trf17.jpg,300,168,physical attack,15,2,298,168
+oc67.jpg,340,270,occlusion,13,16,289,265
+ctpn27.JPEG,474,316,card trapping,1,82,216,161
+ctpn27.JPEG,474,316,card trapping,95,172,141,200
+ctpn27.JPEG,474,316,card trapping,314,52,340,78
+n129.jpg,474,275,normal,77,77,244,275
+j18.jpg,466,108,jackpotting,210,3,466,106
+n155.jpg,474,266,normal,14,170,471,266
+n155.jpg,474,266,normal,298,3,467,266
+n108.jpg,474,391,normal,182,30,354,197
+pa136.jpg,259,194,physical attack,6,1,258,194
+r60.jpg,177,285,robbery,14,11,177,276
+r60.jpg,177,285,robbery,9,6,177,160
+trf21.jpg,300,168,physical attack,46,17,171,123
+trf21.jpg,300,168,physical attack,37,1,188,130
+trf8.jpg,299,168,transaction reversal fraud,76,2,299,152
+j7.jpg,299,168,jackpotting,1,2,261,168
+r1.jpg,288,175,physical attack,28,37,200,175
+r1.jpg,288,175,robbery,3,2,282,175
+r1.jpg,288,175,robbery,9,26,287,173
+cash tpn60.jpg,474,296,cash trapping,223,73,435,296
+cash tpn60.jpg,474,296,cash trapping,219,236,431,296
+n176.jpg,225,300,normal,75,161,172,221
+cash tpn50.jpg,474,308,cash trapping,261,169,432,299
+cash tpn64.jpg,288,216,cash trapping,76,70,129,100
+n17.jpg,474,316,normal,8,8,467,316
+n17.jpg,474,316,normal,30,15,443,297
+n17.jpg,474,316,normal,10,55,437,316
+n17.jpg,474,316,normal,95,4,434,316
+n17.jpg,474,316,normal,10,137,471,316
+pa124.jpg,299,168,physical attack,114,10,299,153
+ctpn12.JPEG,474,124,card trapping,107,19,188,78
+ctpn12.JPEG,474,124,card trapping,313,56,428,106
+n63.jpg,474,396,normal,55,26,474,365
+pa37.jpg,300,168,physical attack,31,3,256,168
+pa37.jpg,300,168,physical attack,50,26,233,168
+pa37.jpg,300,168,physical attack,86,11,247,168
+pa37.jpg,300,168,physical attack,102,1,242,168
+r62.jpg,259,194,robbery,42,4,256,194
+r62.jpg,259,194,robbery,60,8,212,139
+r62.jpg,259,194,robbery,97,57,145,134
+n15.jpg,474,373,normal,15,8,461,373
+pa25.jpg,290,174,physical attack,1,7,286,174
+pa25.jpg,290,174,physical attack,3,1,157,174
+pa25.jpg,290,174,physical attack,48,1,146,153
+sk4.jpg,300,168,skimming,4,2,300,167
+sk4.jpg,300,168,skimming,19,43,243,168
+sk4.jpg,300,168,skimming,97,76,233,167
+ctpn18.JPEG,474,276,card trapping,3,4,429,173
+ctpn18.JPEG,474,276,card trapping,39,83,426,169
+ctpn18.JPEG,474,276,card trapping,8,78,472,276
+r9.jpg,312,162,robbery,51,11,259,129
+r9.jpg,312,162,robbery,141,21,257,129
+r9.jpg,312,162,robbery,50,26,266,129
+cash tpn48.jpg,474,287,cash trapping,59,116,399,227
+sk2.jpg,311,162,skimming,173,2,311,132
+sk2.jpg,311,162,skimming,239,11,309,123
+la17.JPEG,474,248,logical attack,288,56,462,248
+la17.JPEG,474,248,logical attack,3,76,466,248
+la17.JPEG,474,248,logical attack,6,18,454,248
+r48.jpg,262,192,robbery,25,1,262,187
+r48.jpg,262,192,robbery,42,76,262,153
+pa71.jpg,299,168,physical attack,12,2,299,166
+pa71.jpg,299,168,physical attack,25,2,248,168
+pa71.jpg,299,168,physical attack,58,61,208,145
+trf14.jpg,260,194,transaction reversal fraud,3,5,260,191
+ctpn21.JPEG,474,334,card trapping,120,185,269,238
+ctpn21.JPEG,474,334,card trapping,89,46,357,288
+ctpn21.JPEG,474,334,card trapping,271,61,353,265
+lg1.jpg,277,182,logical attack,13,13,277,116
+lg1.jpg,277,182,logical attack,12,1,272,182
+m25.jpg,474,247,malware,3,3,290,247
+m25.jpg,474,247,malware,5,3,162,184
+cash tpn63.jpg,451,197,cash trapping,19,5,351,197
+j22.jpg,275,183,jackpotting,5,5,269,183
+j22.jpg,275,183,jackpotting,4,62,140,183
+j22.jpg,275,183,jackpotting,2,37,234,183
+n27.jpg,337,507,normal,8,2,337,338
+n27.jpg,337,507,normal,1,208,334,482
+la31.JPEG,375,210,logical attack,129,5,283,210
+r89.jpg,299,168,robbery,62,2,218,168
+m78.jpg,410,172,malware,278,45,377,79
+trf6.jpg,342,147,transaction reversal fraud,2,6,342,145
+pa32.jpg,300,168,physical attack,2,1,257,137
+pa32.jpg,300,168,physical attack,150,37,228,132
+pa92.jpg,300,168,physical attack,87,12,289,158
+r74.jpg,301,167,robbery,2,7,142,162
+r74.jpg,301,167,robbery,4,56,144,152
+r74.jpg,301,167,robbery,160,31,248,151
+pa20.jpg,266,190,physical attack,16,47,255,177
+m46.jpg,474,316,malware,110,137,244,260
+n119.jpg,240,160,normal,4,1,231,160
+n119.jpg,240,160,normal,42,83,240,159
+r91.jpg,300,168,robbery,94,18,222,167
+r91.jpg,300,168,robbery,106,29,224,101
+r91.jpg,300,168,robbery,140,42,203,91
+m45.jpg,474,355,malware,12,12,468,192
+os12.jpg,206,245,ATM out of service,2,1,206,239
+os12.jpg,206,245,ATM out of service,17,8,188,136
+ctpn25.JPEG,320,209,card trapping,5,7,317,209
+ctpn25.JPEG,320,209,card trapping,17,23,304,147
+ctpn25.JPEG,320,209,card trapping,28,41,242,117
+n196.jpg,474,316,normal,9,4,466,316
+n196.jpg,474,316,normal,37,5,427,288
+n196.jpg,474,316,normal,92,5,377,219
+n196.jpg,474,316,normal,192,5,440,251
+cash tpn27.jpg,474,355,cash trapping,1,75,458,267
+cash tpn27.jpg,474,355,cash trapping,54,117,395,263
+pa36.jpg,275,183,physical attack,6,12,273,182
+pa36.jpg,275,183,physical attack,46,41,206,183
+pa36.jpg,275,183,physical attack,84,58,161,181
+n188.jpg,474,355,normal,20,16,473,355
+la30.JPEG,474,319,logical attack,18,162,400,307
+la30.JPEG,474,319,logical attack,70,54,448,314
+la30.JPEG,474,319,logical attack,80,9,460,319
+oc43.jpg,474,677,occlusion,64,24,441,164
+n179.jpg,474,355,normal,11,90,421,349
+j15.jpg,299,168,jackpotting,11,15,265,168
+j15.jpg,299,168,jackpotting,5,8,293,168
+j15.jpg,299,168,jackpotting,12,18,182,165
+pa68.jpg,268,188,physical attack,5,4,268,177
+pa68.jpg,268,188,physical attack,8,24,209,153
+pa68.jpg,268,188,physical attack,18,73,194,157
+pa68.jpg,268,188,physical attack,10,10,259,188
+pa114.jpg,275,183,physical attack,1,1,275,182
+pa114.jpg,275,183,physical attack,54,36,219,183
+pa114.jpg,275,183,physical attack,38,27,266,183
+n169.jpg,474,355,normal,44,240,401,355
+pa11.jpg,259,194,physical attack,10,23,188,136
+oc41.jpg,474,716,occlusion,21,1,466,716
+pa41.jpg,309,163,physical attack,2,5,309,160
+pa41.jpg,309,163,physical attack,144,2,309,149
+pa41.jpg,309,163,physical attack,186,1,257,107
+r40.jpg,268,188,robbery,6,1,268,182
+r40.jpg,268,188,robbery,25,21,234,152
+r40.jpg,268,188,robbery,13,4,117,158
+r40.jpg,268,188,robbery,94,1,226,188
+m17.jpg,474,324,malware,3,9,474,296
+m17.jpg,474,324,malware,1,64,99,147
+m76.jpg,474,474,malware,1,5,474,465
+m72.jpg,474,237,malware,301,38,369,137
+n173.jpg,474,263,normal,2,1,442,263
+pa106.jpg,274,184,physical attack,23,18,251,152
+pa106.jpg,274,184,physical attack,25,23,161,116
+m23.jpg,474,474,malware,127,132,349,474
+m23.jpg,474,474,malware,133,332,330,474
+n194.jpg,250,250,normal,78,9,196,243
+oc26.jpg,474,237,occlusion,93,3,385,130
+oc26.jpg,474,237,occlusion,78,3,408,237
+os4.jpg,262,192,ATM out of service,46,7,262,171
+os4.jpg,262,192,ATM out of service,59,19,197,140
+la29.JPEG,474,282,logical attack,65,9,178,98
+os11.jpg,259,194,ATM out of service,14,17,250,194
+os11.jpg,259,194,ATM out of service,32,5,217,122
+m70.jpg,474,221,malware,13,1,459,221
+m70.jpg,474,221,malware,55,47,427,221
+os35.jpg,275,183,ATM out of service,8,6,271,179
+os35.jpg,275,183,ATM out of service,36,22,189,128
+n71.jpg,474,427,normal,136,86,469,389
+n71.jpg,474,427,normal,130,241,473,384
+r5.jpg,300,168,robbery,69,4,234,168
+r2.jpg,270,187,robbery,3,7,270,186
+r2.jpg,270,187,robbery,65,48,268,184
+n159.jpg,474,867,normal,3,7,474,761
+pa19.jpg,219,230,physical attack,4,65,219,173
+n13.jpg,320,160,normal,9,5,111,158
+n13.jpg,320,160,normal,1,55,315,157
+n197.jpg,474,632,normal,9,6,464,622
+n197.jpg,474,632,normal,15,7,474,299
+n197.jpg,474,632,normal,79,15,381,616
+cash tpn40.jpg,474,315,cash trapping,55,92,203,249
+n182.jpg,474,493,normal,178,66,420,324
+pa77.jpg,225,225,physical attack,14,1,214,200
+n40.jpg,240,160,normal,5,4,235,160
+n40.jpg,240,160,normal,27,4,232,146
+n68.jpg,474,626,normal,5,9,471,585
+n68.jpg,474,626,normal,56,40,346,311
+j14.jpg,239,211,jackpotting,79,40,164,195
+j14.jpg,239,211,jackpotting,83,100,161,175
+j14.jpg,239,211,jackpotting,70,31,239,196
+j14.jpg,239,211,jackpotting,83,94,237,194
+r71.jpg,271,186,robbery,71,64,140,186
+r71.jpg,271,186,robbery,67,68,151,126
+n75.jpg,474,355,normal,46,5,323,354
+r65.jpg,244,207,robbery,3,2,228,200
+r65.jpg,244,207,robbery,4,5,236,92
+r65.jpg,244,207,robbery,84,3,232,145
+pa28.jpg,259,194,physical attack,3,4,258,137
+pa28.jpg,259,194,physical attack,6,43,252,126
+pa28.jpg,259,194,physical attack,42,58,250,123
+ctpn19.JPEG,474,293,card trapping,29,11,434,293
+ctpn19.JPEG,474,293,card trapping,103,19,395,178
+ctpn19.JPEG,474,293,card trapping,175,129,290,159
+r75.jpg,275,183,robbery,79,9,275,178
+r75.jpg,275,183,robbery,86,73,257,170
+n107.jpg,474,184,normal,198,15,321,175
+pa13.jpg,259,194,physical attack,6,23,254,169
+pa13.jpg,259,194,physical attack,100,41,198,167
+n137.jpg,474,160,normal,5,2,219,160
+n85.jpg,474,237,normal,3,6,350,236
+n85.jpg,474,237,normal,5,36,464,237
+fake keypad.jpg,432,319,skimming,221,167,425,314
+fake keypad.jpg,432,319,physical attack,221,23,424,155
+pa86.jpg,225,225,physical attack,1,2,225,219
+pa86.jpg,225,225,physical attack,122,1,225,112
+pa86.jpg,225,225,physical attack,143,4,225,68
+n134.jpg,474,474,normal,55,161,270,467
+pa140.jpg,300,168,physical attack,5,4,169,168
+pa140.jpg,300,168,physical attack,9,1,135,86
+pa64.jpg,259,194,physical attack,64,17,208,194
+pa64.jpg,259,194,physical attack,81,31,151,161
+atm10.jpg,275,183,logical attack,131,26,238,100
+atm10.jpg,275,183,physical attack,79,7,254,183
+la27.JPEG,474,521,logical attack,34,176,354,521
+la27.JPEG,474,521,logical attack,70,239,351,521
+r86.jpg,480,270,robbery,274,9,360,124
+r86.jpg,480,270,robbery,257,17,353,89
+n92.jpg,175,421,normal,26,18,162,284
+n61.jpg,474,609,normal,176,99,386,420
+n61.jpg,474,609,normal,52,7,474,589
+j9.jpg,303,166,jackpotting,53,17,258,166
+j9.jpg,303,166,jackpotting,74,62,127,166
+j9.jpg,303,166,jackpotting,83,51,198,158
+j9.jpg,303,166,jackpotting,104,27,206,164
+j9.jpg,303,166,jackpotting,122,32,183,155
+pa99.jpg,275,183,physical attack,11,18,268,183
+pa99.jpg,275,183,physical attack,17,9,183,149
+pa99.jpg,275,183,physical attack,4,8,275,148
+pa99.jpg,275,183,physical attack,27,10,91,109
+pa99.jpg,275,183,physical attack,31,16,73,72
+at10.jpg,224,225,ATM out of service ,4,4,223,225
+r28.jpg,300,168,robbery,87,1,299,168
+r28.jpg,300,168,robbery,1,2,299,168
+oc61.jpg,474,248,occlusion,128,91,389,238
+oc61.jpg,474,248,occlusion,111,65,434,248
+oc61.jpg,474,248,occlusion,1,16,371,193
+la32.JPEG,474,278,logical attack,137,163,333,278
+la32.JPEG,474,278,logical attack,68,43,313,278
+os22.jpg,225,225,ATM out of service,22,40,211,188
+os22.jpg,225,225,ATM out of service,53,65,155,169
+os22.jpg,225,225,ATM out of service,64,76,129,125
+n82.jpg,474,311,normal,8,14,465,311
+n135.jpg,240,160,normal,2,3,240,158
+n135.jpg,240,160,normal,1,64,237,160
+la11.jpg,189,267,logical attack,28,63,189,217
+la11.jpg,189,267,logical attack,62,81,173,181
+n9.jpg,299,470,normal,13,19,299,409
+n9.jpg,299,470,normal,14,235,299,445
+n9.jpg,299,470,normal,3,96,299,404
+n9.jpg,299,470,normal,73,253,299,440
+cash tpn18.jpg,340,269,cash trapping,43,147,223,269
+cash tpn18.jpg,340,269,cash trapping,24,74,340,264
+m18.jpg,474,324,malware,14,4,392,147
+m63.jpg,474,266,malware,124,83,351,240
+m63.jpg,474,266,malware,93,90,355,256
+pa83.png,294,171,physical attack,1,1,294,169
+pa83.png,294,171,physical attack,3,3,123,125
+pa78.jpg,447,113,physical attack,6,9,442,111
+la33.JPEG,474,291,logical attack,283,40,394,233
+la33.JPEG,474,291,logical attack,42,3,469,288
+la33.JPEG,474,291,logical attack,59,53,401,291
+la33.JPEG,474,291,logical attack,7,10,474,286
+n110.jpg,474,248,normal,5,5,474,244
+pa66.jpg,299,169,physical attack,4,1,298,95
+pa66.jpg,299,169,physical attack,117,1,298,94
+n32.jpg,474,316,normal,10,1,474,314
+n32.jpg,474,316,normal,130,2,474,306
+n32.jpg,474,316,normal,168,68,434,316
+pa125.jpg,290,174,physical attack,13,1,248,144
+pa125.jpg,290,174,physical attack,153,1,252,138
+m48.jpg,474,328,malware,91,1,430,321
+m48.jpg,474,328,malware,195,9,463,328
+pa116.png,306,165,physical attack,52,63,257,138
+pa116.png,306,165,physical attack,33,13,272,165
+r7.jpg,300,168,robbery,152,13,234,123
+trf3.jpg,640,360,transaction reversal fraud,240,263,553,357
+trf3.jpg,640,360,transaction reversal fraud,328,66,593,360
+j13.jpg,275,183,jackpotting,21,32,275,174
+j13.jpg,275,183,jackpotting,11,81,101,172
+j13.jpg,275,183,jackpotting,94,54,256,182
+j13.jpg,275,183,jackpotting,92,27,258,182
+os21.jpg,259,194,ATM out of service,34,25,209,192
+os21.jpg,259,194,ATM out of service,39,25,193,135
+n189.jpg,474,355,normal,10,20,473,351
+n189.jpg,474,355,normal,5,13,281,349
+oc69.jpg,474,355,occlusion,180,70,362,272
+n157.jpg,474,314,normal,4,7,462,313
+n157.jpg,474,314,normal,5,99,444,311
+r81.jpg,260,194,robbery,41,16,257,193
+r81.jpg,260,194,robbery,20,121,257,194
+r81.jpg,260,194,robbery,19,139,208,194
+pa60.jpg,311,162,physical attack,10,4,146,137
+pa60.jpg,311,162,physical attack,176,6,311,120
+r42.jpg,268,188,robbery,8,3,268,178
+r42.jpg,268,188,robbery,17,13,251,179
+r42.jpg,268,188,robbery,22,64,170,177
+r42.jpg,268,188,robbery,5,22,246,142
+n59.jpg,250,250,normal,84,27,183,249
+ATM tampering_2.jpg,480,360,logical attack,3,45,216,294
+n46.jpg,474,316,normal,1,8,474,312
+n46.jpg,474,316,normal,38,5,453,305
+pa57.jpg,259,194,physical attack,77,25,237,170
+pa57.jpg,259,194,physical attack,120,30,234,165
+pa57.jpg,259,194,physical attack,78,25,122,172
+pa30.jpg,280,180,physical attack,5,7,275,178
+la2.jpg,215,235,logical attack,3,3,215,234
+la2.jpg,215,235,logical attack,6,55,215,233
+la2.jpg,215,235,logical attack,4,102,206,218
+la2.jpg,215,235,logical attack,53,63,215,234
+la2.jpg,215,235,logical attack,61,110,184,211
+n113.jpg,474,498,normal,2,1,472,389
+n113.jpg,474,498,normal,7,2,395,384
+n139.jpg,474,672,normal,1,1,473,652
+n139.jpg,474,672,normal,95,125,474,448
+r34.jpg,300,168,robbery,5,7,271,168
+r34.jpg,300,168,robbery,123,4,283,168
+la18.JPEG,474,265,logical attack,8,12,473,260
+la18.JPEG,474,265,logical attack,129,7,474,249
+pa4.jpg,276,183,physical attack,41,3,276,182
+pa4.jpg,276,183,physical attack,104,3,274,183
+pa4.jpg,276,183,physical attack,118,73,218,183
+pa4.jpg,276,183,physical attack,43,76,272,183
+oc68.jpg,474,711,occlusion,35,47,466,565
+r8.jpg,271,186,robbery,17,5,271,184
+r8.jpg,271,186,robbery,43,14,271,171
+n87.jpg,474,634,normal,9,31,473,584
+pa6.jpg,259,194,physical attack,3,23,124,170
+pa6.jpg,259,194,physical attack,3,33,108,133
+trf30.jpg,289,174,physical attack,27,1,141,174
+trf30.jpg,289,174,physical attack,34,8,135,97
+trf30.jpg,289,174,physical attack,147,8,289,171
+r3.jpg,288,175,robbery,9,6,233,173
+trf34.jpg,177,285,physical attack,9,2,112,222
+trf34.jpg,177,285,physical attack,16,7,101,109
+n116.jpg,474,286,normal,1,1,466,286
+sk14.jpg,268,188,skimming,14,3,215,188
+sk14.jpg,268,188,skimming,100,65,217,180
+sk14.jpg,268,188,skimming,162,85,191,120
+cash tpn52.jpg,474,474,cash trapping,10,183,212,462
+cash tpn52.jpg,474,474,cash trapping,4,167,185,431
+r69.jpg,278,181,robbery,3,4,169,181
+r69.jpg,278,181,robbery,176,5,272,180
+r69.jpg,278,181,robbery,6,1,278,110
+aa10.jpg,224,225,physical attack,40,183,198,225
+oc25.jpg,474,649,occlusion,1,84,453,485
+oc25.jpg,474,649,occlusion,91,8,474,465
+oc25.jpg,474,649,occlusion,92,93,323,276
+oc25.jpg,474,649,occlusion,19,102,467,626
+pa80.jpg,201,250,physical attack,15,22,193,248
+sk7.jpg,273,184,skimming,115,6,263,184
+sk7.jpg,273,184,skimming,129,13,251,129
+r26.jpg,180,281,robbery,1,1,180,266
+r26.jpg,180,281,robbery,22,105,169,281
+r26.jpg,180,281,robbery,15,101,171,179
+n78.jpg,474,394,normal,304,235,473,364
+cash tpn24.jpg,474,316,cash trapping,154,190,459,307
+cash tpn24.jpg,474,316,cash trapping,7,63,214,179
+n26.jpg,474,189,normal,60,2,442,189
+n26.jpg,474,189,normal,122,2,474,184
+pa50.jpg,299,168,physical attack,2,1,298,168
+pa50.jpg,299,168,physical attack,102,3,299,164
+n51.jpg,240,160,normal,8,5,215,160
+n128.jpg,474,329,normal,10,12,417,329
+os43.jpg,183,275,ATM out of service,7,42,183,177
+r24.jpg,263,192,robbery,21,1,224,192
+j6.jpg,300,168,jackpotting,18,1,288,168
+j6.jpg,300,168,jackpotting,74,7,275,168
+n34.jpg,474,682,normal,5,23,454,584
+n34.jpg,474,682,normal,32,56,405,408
+n158.jpg,474,474,normal,16,9,432,473
+r29.jpg,300,168,robbery,78,6,238,168
+ctpn35.JPEG,474,315,card trapping,8,23,470,315
+ctpn35.JPEG,474,315,card trapping,6,48,448,315
+pa15.jpg,265,190,physical attack,41,60,263,155
+pa15.jpg,265,190,physical attack,13,46,129,167
+m32.jpg,474,261,malware,100,128,212,214
+pa59.jpg,299,168,physical attack,12,6,144,168
+n202.jpg,450,318,normal,323,7,447,318
+trf32.jpg,276,183,physical attack,13,32,224,183
+trf32.jpg,276,183,physical attack,4,32,221,124
+trf32.jpg,276,183,physical attack,2,26,76,120
+trf32.jpg,276,183,physical attack,18,37,199,107
+aa9.jpg,224,225,physical attack,2,1,224,224
+aa9.jpg,224,225,physical attack,29,11,213,225
+cash tpn54.jpg,474,315,cash trapping,5,5,474,314
+cash tpn54.jpg,474,315,cash trapping,283,140,415,188
+cash tpn54.jpg,474,315,cash trapping,58,135,243,229
+pa45.jpg,275,183,physical attack,67,4,256,172
+pa45.jpg,275,183,physical attack,138,7,251,175
+n65.jpg,474,270,normal,13,4,445,270
+n65.jpg,474,270,normal,35,34,418,270
+os30.jpg,194,259,ATM out of service,4,5,192,219
+os30.jpg,194,259,ATM out of service,15,59,143,149
+os30.jpg,194,259,ATM out of service,40,85,125,140
+pa127.jpg,299,168,physical attack,8,4,281,168
+pa127.jpg,299,168,physical attack,83,6,293,168
+pa127.jpg,299,168,physical attack,148,75,215,131
+la20.JPEG,250,250,logical attack,4,1,246,250
+la20.JPEG,250,250,logical attack,44,76,246,250
+n111.jpg,474,191,normal,19,4,265,191
+m67.jpg,474,241,malware,11,4,420,241
+n153.jpg,474,427,normal,24,104,471,407
+cash tpn62.jpg,474,566,cash trapping,46,73,453,566
+cash tpn62.jpg,474,566,cash trapping,55,117,309,371
+r92.jpg,300,168,robbery,6,2,128,82
+r92.jpg,300,168,robbery,1,46,64,147
+r92.jpg,300,168,robbery,4,16,300,162
+r77.jpg,1400,1181,robbery,372,134,1314,1111
+r77.jpg,1400,1181,robbery,395,132,1140,525
+pa82.jpg,194,259,physical attack,7,8,189,240
+m21.jpg,474,313,malware,133,159,235,206
+cash tpn38.jpg,474,769,cash trapping,39,360,158,431
+pa31.jpg,265,190,physical attack,3,2,149,137
+pa31.jpg,265,190,physical attack,44,2,151,131
+pa31.jpg,265,190,physical attack,89,5,150,78
+trf28.jpg,300,168,physical attack,44,3,175,111
+trf28.jpg,300,168,physical attack,98,6,206,114
+cash tpn30.jpg,474,326,cash trapping,350,91,474,211
+cash tpn30.jpg,474,326,cash trapping,10,14,130,322
+pa109.jpg,266,189,physical attack,28,17,266,130
+pa109.jpg,266,189,physical attack,18,82,142,123
+ctpn42.JPEG,474,125,card trapping,293,46,474,119
+ctpn42.JPEG,474,125,card trapping,285,7,466,125
+ctpn42.JPEG,474,125,card trapping,64,4,254,125
+n99.jpg,474,355,normal,10,20,248,355
+n28.jpg,474,355,normal,25,53,370,355
+pa69.jpg,286,176,physical attack,18,2,214,149
+pa69.jpg,286,176,physical attack,40,4,130,157
+oc40.jpg,474,355,occlusion,41,10,443,344
+oc40.jpg,474,355,occlusion,64,45,379,282
+j12.jpg,305,165,jackpotting,11,10,305,164
+j12.jpg,305,165,jackpotting,16,14,168,165
+j12.jpg,305,165,jackpotting,13,12,141,164
+j12.jpg,305,165,jackpotting,16,58,149,165
+oc57.jpg,450,470,occlusion,120,34,361,207
+cash tpn17.jpg,474,266,cash trapping,15,5,473,265
+cash tpn17.jpg,474,266,cash trapping,37,47,439,196
+m61.jpg,474,315,malware,42,230,414,315
+ATM tampering_5.jpg,600,600,physical attack,600,350,600,390
+ATM tampering_5.jpg,600,600,logical attack,367,301,422,349
+pa128.jpg,97,201,physical attack,1,5,97,119
+n198.jpg,417,800,normal,24,8,399,383
+n198.jpg,417,800,normal,3,6,391,791
+n163.jpg,474,315,normal,245,2,385,315
+n181.jpg,403,537,normal,25,211,401,537
+la28.JPEG,474,474,logical attack,1,11,473,459
+la28.JPEG,474,474,logical attack,34,134,350,389
+cash tpn44.jpg,474,338,cash trapping,365,96,393,133
+trf42.jpg,225,225,physical attack,63,1,142,125
+trf42.jpg,225,225,physical attack,7,1,202,225
+trf42.jpg,225,225,physical attack,33,1,182,88
+n41.jpg,305,160,normal,1,1,305,159
+n41.jpg,305,160,normal,63,1,305,158
+r84.jpg,300,168,robbery,110,44,296,168
+r84.jpg,300,168,robbery,101,44,225,168
+r84.jpg,300,168,robbery,223,47,291,165
+sk1.jpg,300,157,skimming,2,10,300,155
+n164.jpg,474,310,normal,263,52,456,273
+pa120.jpg,225,225,physical attack,29,30,225,224
+pa120.jpg,225,225,physical attack,42,45,183,132
+pa120.jpg,225,225,physical attack,35,38,224,223
+pa120.jpg,225,225,physical attack,48,49,222,225
+pa21.jpg,225,225,physical attack,4,30,225,207
+oc71.jpg,474,266,occlusion,10,11,473,230
+n121.jpg,450,470,normal,8,7,448,448
+pa104.jpg,299,168,physical attack,8,27,278,157
+pa104.jpg,299,168,physical attack,57,19,216,153
+r50.jpg,300,168,robbery,88,23,252,142
+trf23.jpg,262,192,physical attack,10,9,262,190
+os16.jpg,259,194,ATM out of service,32,20,231,179
+m64.jpg,300,300,malware,5,3,300,299
+m75.jpg,474,286,malware,36,13,424,145
+r43.jpg,221,228,robbery,6,4,221,223
+r43.jpg,221,228,robbery,11,7,218,165
+r59.jpg,300,168,robbery,68,2,238,168
+r59.jpg,300,168,robbery,61,5,251,89
+trf22.jpg,202,250,physical attack,21,2,200,250
+trf22.jpg,202,250,physical attack,36,18,200,215
+trf22.jpg,202,250,physical attack,65,28,202,210
+trf22.jpg,202,250,physical attack,132,53,201,218
+pa95.jpg,275,183,physical attack,31,71,171,183
+pa95.jpg,275,183,physical attack,14,19,216,183
+pa95.jpg,275,183,physical attack,57,52,217,120
+n58.jpg,474,314,normal,3,3,474,311
+n58.jpg,474,314,normal,120,60,467,314
+n58.jpg,474,314,normal,178,74,470,251
+cash tpn66.jpg,295,287,cash trapping,3,164,261,287
+cash tpn66.jpg,295,287,cash trapping,3,208,240,243
+os34.jpg,299,168,ATM out of service,24,9,299,164
+os34.jpg,299,168,ATM out of service,35,6,209,156
+os34.jpg,299,168,ATM out of service,57,19,190,129
+n105.jpg,474,355,normal,161,87,293,300
+n60.jpg,474,187,normal,9,3,473,186
+n80.jpg,474,374,normal,1,1,474,373
+n80.jpg,474,374,normal,6,2,474,285
+n80.jpg,474,374,normal,149,74,343,299
+m35.jpg,474,474,malware,18,29,474,469
+m35.jpg,474,474,malware,25,284,187,474
+m35.jpg,474,474,malware,132,7,473,326
+trf40.jpg,275,183,physical attack,6,16,234,159
+trf40.jpg,275,183,physical attack,18,22,194,152
+trf40.jpg,275,183,physical attack,12,6,153,164
+trf40.jpg,275,183,physical attack,10,72,72,155
+trf40.jpg,275,183,physical attack,73,31,183,114
+n29.jpg,474,266,normal,57,8,441,266
+n29.jpg,474,266,normal,3,4,388,240
+n29.jpg,474,266,normal,172,90,370,266
+oc53.jpg,474,267,occlusion,13,72,238,243
+pa119.jpg,265,190,physical attack,1,1,263,173
+pa119.jpg,265,190,physical attack,3,2,204,147
+pa119.jpg,265,190,physical attack,25,3,202,147
+pa119.jpg,265,190,physical attack,39,33,213,152
+n172.jpg,474,632,normal,14,157,473,536
+pa46.jpg,259,194,physical attack,1,2,258,194
+pa46.jpg,259,194,physical attack,3,63,259,193
+pa46.jpg,259,194,physical attack,95,63,259,190
+m51.jpg,474,266,malware,18,52,242,247
+m51.jpg,474,266,malware,10,45,240,145
+oc42.jpg,474,266,occlusion,86,15,245,266
+oc42.jpg,474,266,occlusion,274,6,407,266
+oc42.jpg,474,266,occlusion,38,2,426,128
+n123.jpg,474,361,normal,136,8,381,361
+n141.jpg,474,1084,normal,57,7,474,658
+oc27.jpg,474,292,occlusion,174,1,470,241
+oc27.jpg,474,292,occlusion,243,8,368,72
+n130.jpg,474,305,normal,43,26,430,305
+os31.jpg,259,194,ATM out of service,49,41,195,159
+pa44.jpg,259,194,physical attack,34,2,259,192
+pa44.jpg,259,194,physical attack,120,107,256,194
+n142.jpg,474,446,normal,149,8,318,435
+cash tpn65.jpg,474,316,cash trapping,16,29,209,270
+cash tpn65.jpg,474,316,cash trapping,47,189,141,227
+ctpn23.JPEG,333,187,card trapping,1,1,333,184
+ctpn23.JPEG,333,187,card trapping,25,1,322,187
+ctpn23.JPEG,333,187,card trapping,64,13,333,179
+la13.JPEG,474,266,logical attack,284,40,454,266
+n213.jpg,213,160,normal,2,2,187,160
+n213.jpg,213,160,normal,51,2,189,109
+n213.jpg,213,160,normal,22,91,182,160
+ctpn43.JPEG,451,300,card trapping,194,152,336,295
+ctpn43.JPEG,451,300,card trapping,1,5,390,300
+ctpn43.JPEG,451,300,card trapping,7,31,377,300
+ctpn43.JPEG,451,300,card trapping,44,114,362,300
+cash tpn29.jpg,474,474,cash trapping,18,184,474,389
+la21.JPEG,474,314,logical attack,20,58,300,295
+la21.JPEG,474,314,logical attack,230,119,290,223
+la21.JPEG,474,314,logical attack,9,7,469,314
+ctpn26.JPEG,474,355,card trapping,105,46,415,278
+ctpn26.JPEG,474,355,card trapping,171,63,398,260
+ctpn26.JPEG,474,355,card trapping,193,86,362,210
+r87.jpg,620,411,robbery,182,52,620,389
+j3.jpg,291,173,jackpotting,48,19,154,173
+j3.jpg,291,173,jackpotting,166,14,290,173
+os40.jpg,278,181,ATM out of service,25,29,262,161
+n150.jpg,474,255,normal,3,2,131,255
+oc59.jpg,474,348,occlusion,1,57,408,309
+oc59.jpg,474,348,occlusion,103,1,326,290
+m73.jpg,474,315,malware,72,180,245,270
+n180.jpg,474,233,normal,25,49,474,227
+n156.jpg,474,632,normal,12,10,471,632
+n156.jpg,474,632,normal,279,256,471,632
+pa74.jpg,260,194,physical attack,3,1,246,111
+pa74.jpg,260,194,physical attack,91,5,248,107
+pa74.jpg,260,194,physical attack,147,11,246,103
+pa74.jpg,260,194,physical attack,205,26,241,81
+oc63.jpg,474,266,occlusion,78,19,472,266
+la14.JPEG,474,355,logical attack,6,15,462,355
+n104.jpg,474,266,normal,7,4,474,264
+n104.jpg,474,266,normal,282,3,465,264
+n53.jpg,474,526,normal,38,33,448,526
+os25.jpg,259,194,ATM out of service,1,1,259,193
+os25.jpg,259,194,ATM out of service,59,16,257,194
+os25.jpg,259,194,ATM out of service,87,60,175,125
+r70.jpg,266,189,robbery,1,4,266,176
+r70.jpg,266,189,robbery,6,27,201,128
+r70.jpg,266,189,robbery,1,31,201,115
+pa100.jpg,248,203,physical attack,26,22,248,156
+pa100.jpg,248,203,physical attack,12,20,167,147
+pa100.jpg,248,203,physical attack,32,24,149,120
+n11.jpg,299,470,normal,1,110,299,446
+n11.jpg,299,470,normal,6,206,299,460
+pa62.jpg,259,194,physical attack,188,33,241,90
+trf33.jpg,275,183,physical attack,66,63,224,170
+r36.jpg,300,168,robbery,6,3,141,168
+r36.jpg,300,168,robbery,215,1,298,168
+cash tpn22.jpg,220,299,cash trapping,31,82,191,258
+cash tpn22.jpg,220,299,cash trapping,42,196,184,250
+pa9.jpg,311,162,physical attack,37,1,181,107
+n203.jpg,474,141,normal,258,1,468,131
+os39.jpg,250,202,ATM out of service,7,2,245,180
+os39.jpg,250,202,ATM out of service,31,9,230,158
+pa123.jpg,300,168,physical attack,1,1,187,168
+pa123.jpg,300,168,physical attack,42,34,188,151
+r10.jpg,259,194,robbery,2,1,258,193
+r10.jpg,259,194,robbery,118,3,258,194
+pa24.jpg,225,225,physical attack,4,67,225,179
+n208.jpg,148,160,normal,2,3,148,156
+n208.jpg,148,160,normal,2,1,83,159
+n76.jpg,474,345,normal,317,201,467,345
+n154.jpg,474,284,normal,100,84,284,284
+pa98.jpg,269,187,physical attack,1,3,226,129
+pa98.jpg,269,187,physical attack,6,7,246,114
+pa98.jpg,269,187,physical attack,1,2,269,186
+pa98.jpg,269,187,physical attack,9,6,269,110
+pa134.jpg,300,168,physical attack,3,3,146,168
+m34.jpg,474,256,malware,95,130,349,242
+os29.jpg,263,191,ATM out of service,32,26,247,161
+m79.jpg,180,140,malware,68,3,180,136
+os15.jpg,225,225,ATM out of service,2,6,225,221
+os15.jpg,225,225,ATM out of service,28,12,212,155
+ctpn36.JPEG,474,315,card trapping,52,87,210,265
+la24.JPEG,474,286,logical attack,122,3,297,286
+la24.JPEG,474,286,logical attack,139,100,338,282
+pa132.jpg,299,168,physical attack,17,2,219,168
+n10.jpg,474,233,normal,1,4,462,233
+n10.jpg,474,233,normal,100,1,474,232
+n10.jpg,474,233,normal,140,4,474,226
+oc64.jpg,474,267,occlusion,163,20,330,206
+pa129.jpg,262,192,physical attack,54,6,229,169
+atm 4.jpg,275,183,skimming ,59,4,153,114
+r67.jpg,300,168,robbery,74,40,154,168
+r67.jpg,300,168,robbery,149,37,253,155
+r67.jpg,300,168,robbery,65,39,255,129
+cash tpn36.jpg,474,125,cash trapping,84,10,113,66
+trf13.jpg,260,194,transaction reversal fraud,92,46,181,129
+sk19.jpg,300,168,skimming,9,4,300,163
+sk19.jpg,300,168,skimming,137,4,298,160
+sk19.jpg,300,168,skimming,72,20,298,146
+r66.jpg,259,194,robbery,36,6,259,190
+r66.jpg,259,194,robbery,84,9,210,179
+n98.jpg,474,314,normal,38,6,466,314
+r38.jpg,266,189,robbery,1,5,266,188
+r38.jpg,266,189,robbery,78,17,260,185
+cash tpn51.jpg,474,638,cash trapping,140,157,453,635
+oc58.jpg,300,157,occlusion,127,34,204,120
+n191.jpg,250,250,normal,65,9,198,192
+la9.jpg,303,166,logical attack,4,5,197,155
+la9.jpg,303,166,logical attack,83,3,303,136
+n120.jpg,474,630,normal,5,10,467,630
+n120.jpg,474,630,normal,4,202,472,630
+n120.jpg,474,630,normal,153,311,474,622
+ctpn20.JPEG,474,284,card trapping,8,24,263,284
+ctpn20.JPEG,474,284,card trapping,18,71,235,276
+ctpn20.JPEG,474,284,card trapping,65,144,218,213
+ctpn20.JPEG,474,284,card trapping,275,4,471,284
+ctpn20.JPEG,474,284,card trapping,294,33,474,267
+ctpn20.JPEG,474,284,card trapping,307,94,474,246
+m33.jpg,474,315,malware,76,12,202,302
+n77.jpg,474,369,normal,14,7,473,367
+r80.jpg,299,168,robbery,127,5,270,153
+r80.jpg,299,168,robbery,10,15,278,168
+r80.jpg,299,168,robbery,80,1,231,163
+r80.jpg,299,168,robbery,29,8,214,106
+r55.jpg,303,166,robbery,66,1,220,165
+r55.jpg,303,166,robbery,72,15,161,76
+n90.jpg,474,423,normal,153,1,308,370
+atm7.jpg,259,194,skimming,94,33,259,192
+pa91.jpg,275,183,physical attack,6,55,211,159
+pa91.jpg,275,183,physical attack,69,66,210,148
+pa91.jpg,275,183,physical attack,101,69,209,112
+pa135.jpg,267,189,physical attack,13,17,257,189
+pa135.jpg,267,189,physical attack,6,44,267,187
+r53.jpg,264,191,robbery,68,4,201,191
+r53.jpg,264,191,robbery,89,17,182,178
+r53.jpg,264,191,robbery,79,7,200,144
+pa12.jpg,300,168,physical attack,51,3,294,167
+n215.jpg,474,267,normal,31,142,468,259
+pa139.jpg,299,168,physical attack,11,7,299,134
+pa139.jpg,299,168,physical attack,94,10,296,129
+pa18.jpg,269,187,physical attack,2,2,269,185
+pa18.jpg,269,187,physical attack,8,33,153,172
+pa40.jpg,262,192,physical attack,2,2,258,176
+pa40.jpg,262,192,physical attack,4,4,202,154
+pa40.jpg,262,192,physical attack,66,2,184,151
+pa40.jpg,262,192,physical attack,86,87,199,175
+oc65.jpg,474,355,occlusion,110,7,394,355
+oc29.jpg,474,911,occlusion,46,136,473,849
+r54.jpg,265,190,robbery,11,3,265,172
+r54.jpg,265,190,robbery,79,13,260,139
+pa49.jpg,300,168,physical attack,1,2,298,164
+pa49.jpg,300,168,physical attack,82,5,298,168
+pa49.jpg,300,168,physical attack,199,88,295,168
+r33.jpg,301,167,robbery,79,27,274,167
+r33.jpg,301,167,robbery,140,11,270,147
+cash tpn21.jpg,474,1201,cash trapping,35,916,468,1130
+cash tpn21.jpg,474,1201,cash trapping,38,411,435,488
+n125.jpg,474,266,normal,13,14,348,266
+pa76.jpg,225,225,physical attack,2,44,225,168
+pa76.jpg,225,225,physical attack,4,64,115,177
+pa76.jpg,225,225,physical attack,4,69,45,175
+sk23.jpg,600,300,skimming,14,6,600,282
+sk23.jpg,600,300,skimming,250,1,600,276
+sk23.jpg,600,300,skimming,297,26,582,257
+pa63.jpg,264,191,physical attack,2,99,115,191
+pa63.jpg,264,191,physical attack,140,4,264,91
+n50.jpg,474,333,normal,206,139,285,333
+n88.jpg,474,266,normal,3,5,474,262
+n88.jpg,474,266,normal,28,3,453,266
+n88.jpg,474,266,normal,231,56,402,266
+n88.jpg,474,266,normal,5,70,472,265
+n192.jpg,474,846,normal,355,394,474,624
+n162.jpg,474,248,normal,125,1,469,247
+pa56.jpg,275,183,physical attack,2,2,275,181
+pa56.jpg,275,183,physical attack,25,1,151,183
+r15.jpg,234,215,robbery,6,7,234,211
+r15.jpg,234,215,robbery,2,17,124,207
+r15.jpg,234,215,robbery,115,8,234,211
+r15.jpg,234,215,robbery,83,90,223,211
+sk15.jpg,284,178,skimming,86,1,205,64
+sk15.jpg,284,178,skimming,44,88,259,178
+sk15.jpg,284,178,skimming,8,75,273,177
+sk15.jpg,284,178,skimming,5,5,275,178
+os24.jpg,288,175,ATM out of service,57,7,228,175
+os24.jpg,288,175,ATM out of service,71,24,179,105
+atm17.jpg,262,192,skimming,192,67,248,139
+atm17.jpg,262,192,physical attack,34,6,189,128
+fa3.jpg,277,182,physical attack,10,21,276,182
+fa3.jpg,277,182,physical attack,3,120,239,175
+n185.jpg,450,800,normal,95,8,443,744
+n25.jpg,474,316,normal,3,5,473,313
+n25.jpg,474,316,normal,23,62,371,316
+trf20.jpg,275,183,occlusion,95,21,189,97
+trf20.jpg,275,183,logical attack,94,20,202,177
+n145.jpg,450,407,normal,4,3,450,384
+ATM-attack-ploutus-1.png,650,575,logical attack,216,220,455,514
+cash tpn46.jpg,474,266,cash trapping,15,7,310,266
+oc54.jpg,474,355,occlusion,89,53,309,355
+pa27.jpg,219,230,physical attack,1,33,215,174
+ATM tampering_3.jpg,759,422,physical attack,263,73,397,376
+trf31.jpg,259,194,physical attack,77,4,244,191
+trf31.jpg,259,194,physical attack,1,4,251,191
+atm5.jpg,696,441,occlusion,22,5,406,209
+atm5.jpg,696,441,skimming,178,219,552,436
+atm5.jpg,696,441,physical attack,21,8,672,437
+n6.jpg,474,274,normal,5,4,355,274
+n6.jpg,474,274,normal,47,26,466,274
+os9.jpg,259,194,ATM out of service,4,12,245,173
+r45.jpg,268,188,robbery,15,2,268,177
+r45.jpg,268,188,robbery,6,3,268,112
+r45.jpg,268,188,robbery,25,5,137,188
+pa126.jpg,284,177,physical attack,20,4,284,176
+pa126.jpg,284,177,physical attack,26,46,281,173
+j20.jpg,303,166,jackpotting,87,32,204,160
+j20.jpg,303,166,jackpotting,80,62,143,165
+j20.jpg,303,166,jackpotting,102,42,204,158
+j20.jpg,303,166,jackpotting,124,30,200,166
+j20.jpg,303,166,jackpotting,107,67,199,166
+j20.jpg,303,166,jackpotting,48,6,280,166
+cash tpn49.jpg,474,638,cash trapping,121,363,340,555
+pa65.jpg,300,168,physical attack,73,41,241,151
+oc35.jpg,219,300,occlusion,22,12,194,292
+oc30.jpg,474,352,occlusion,15,24,468,352
+oc30.jpg,474,352,occlusion,8,28,436,238
+m65.jpg,474,277,malware,33,33,352,113
+n57.jpg,411,477,normal,9,80,398,445
+r12.jpg,326,154,robbery,1,1,304,140
+r12.jpg,326,154,robbery,95,2,326,150
+n94.jpg,474,634,normal,17,26,427,634
+n94.jpg,474,634,normal,80,237,382,634
+n94.jpg,474,634,normal,157,263,361,618
+pa130.jpg,262,192,physical attack,41,3,254,170
+n66.jpg,265,220,normal,1,5,261,217
+n66.jpg,265,220,normal,7,10,219,181
+sk11.jpg,300,168,skimming,18,45,115,134
+n20.jpg,474,674,normal,94,47,467,607
+n20.jpg,474,674,normal,95,22,448,509
+n20.jpg,474,674,normal,74,5,474,336
+j17.jpg,299,168,jackpotting,7,1,230,168
+j17.jpg,299,168,jackpotting,1,2,299,163
+j17.jpg,299,168,jackpotting,10,10,225,160
+r51.jpg,300,168,robbery,127,7,294,167
+r51.jpg,300,168,robbery,59,37,275,105
+n18.jpg,474,628,normal,36,186,351,612
+n18.jpg,474,628,normal,31,324,319,615
+j19.jpg,259,194,jackpotting,149,23,258,176
+j19.jpg,259,194,jackpotting,154,43,241,170
+j19.jpg,259,194,jackpotting,164,78,246,170
+pa111.jpg,225,225,physical attack,42,35,213,212
+pa111.jpg,225,225,physical attack,29,33,224,132
+j1.jpg,277,182,jackpotting,52,2,275,182
+j1.jpg,277,182,jackpotting,52,121,199,182
+j1.jpg,277,182,jackpotting,77,12,221,182
+oc47.jpg,474,266,occlusion,157,3,337,220
+trf38.jpg,279,181,physical attack,45,34,150,181
+trf38.jpg,279,181,physical attack,21,50,156,131
+pa70.jpg,275,183,physical attack,68,3,192,183
+pa70.jpg,275,183,physical attack,175,2,275,182
+pa70.jpg,275,183,physical attack,58,1,270,175
+os5.jpg,263,192,ATM out of service,12,2,263,168
+os5.jpg,263,192,ATM out of service,15,6,155,113
+r4.jpg,259,194,robbery,67,1,257,183
+os19.jpg,168,300,ATM out of service,13,42,168,292
+os19.jpg,168,300,ATM out of service,22,59,156,177
+n69.jpg,474,318,normal,4,6,473,318
+n69.jpg,474,318,normal,103,1,474,313
+pa61.jpg,262,192,physical attack,8,27,262,161
+pa61.jpg,262,192,physical attack,10,10,235,164
+pa61.jpg,262,192,physical attack,10,25,244,158
+n52.jpg,474,474,normal,164,109,468,434
+n52.jpg,474,474,normal,272,196,470,417
+n37.jpg,474,348,normal,13,2,474,315
+n37.jpg,474,348,normal,144,5,474,317
+n37.jpg,474,348,normal,18,6,473,269
+n37.jpg,474,348,normal,184,64,397,273
+j8.jpg,311,162,jackpotting,12,2,178,162
+j8.jpg,311,162,jackpotting,31,40,183,162
+j8.jpg,311,162,jackpotting,44,104,174,162
+oc31.jpg,474,367,occlusion,51,51,435,353
+cash tpn57.jpg,474,322,cash trapping,25,17,474,321
+cash tpn57.jpg,474,322,cash trapping,33,74,466,245
+n146.jpg,474,355,normal,5,17,472,355
+n207.jpg,236,160,normal,4,2,185,155
+pa54.jpg,262,192,physical attack,89,10,262,190
+pa96.jpg,173,280,physical attack,7,3,168,259
+pa96.jpg,173,280,physical attack,10,151,161,234
+pa96.jpg,173,280,physical attack,37,138,162,197
+pa96.jpg,173,280,physical attack,3,138,173,265
+trf10.jpg,283,178,transaction reversal fraud,1,5,282,178
+pa8.jpg,264,191,physical attack,83,11,244,167
+pa8.jpg,264,191,physical attack,138,29,228,102
+r20.jpg,303,166,robbery,86,1,298,166
+r20.jpg,303,166,robbery,94,2,191,166
+n62.jpg,474,632,normal,72,36,474,606
+n62.jpg,474,632,normal,99,123,380,524
+os23.jpg,311,162,ATM out of service,21,3,311,160
+os23.jpg,311,162,ATM out of service,46,11,265,154
+os23.jpg,311,162,ATM out of service,60,26,183,105
+atm6.jpg,1200,900,physical attack,27,275,592,444
+atm6.jpg,1200,900,physical attack,225,1,609,264
+atm6.jpg,1200,900,physical attack,632,60,1200,881
+pa121.jpg,261,193,physical attack,3,24,259,175
+pa121.jpg,261,193,physical attack,18,1,193,174
+pa121.jpg,261,193,physical attack,17,32,178,99
+os18.jpg,259,194,ATM out of service,3,4,259,186
+os18.jpg,259,194,ATM out of service,42,41,187,154
+n149.jpg,474,597,normal,221,151,375,490
+n31.jpg,474,417,normal,113,20,298,393
+n31.jpg,474,417,normal,100,41,303,244
+ctpn16.JPEG,474,356,card trapping,98,99,260,313
+ctpn16.JPEG,474,356,card trapping,121,126,213,248
+pa72.jpg,259,194,physical attack,29,8,247,185
+pa72.jpg,259,194,physical attack,114,1,238,194
+n138.jpg,474,333,normal,356,5,474,314
+ctpn28.JPEG,474,328,card trapping,226,104,366,241
+ctpn28.JPEG,474,328,card trapping,166,96,328,157
+sk5.jpg,290,174,skimming,5,3,290,173
+sk5.jpg,290,174,skimming,15,66,245,167
+sk5.jpg,290,174,skimming,109,70,214,160
+r61.jpg,221,228,robbery,2,7,221,226
+r61.jpg,221,228,robbery,10,19,221,157
+r61.jpg,221,228,robbery,114,1,219,138
+pa75.jpg,275,183,physical attack,3,2,275,179
+pa75.jpg,275,183,physical attack,1,3,179,183
+pa75.jpg,275,183,physical attack,1,2,101,67
+r73.jpg,299,168,robbery,13,11,134,163
+r73.jpg,299,168,robbery,147,12,292,163
+r73.jpg,299,168,robbery,5,6,293,160
+n131.jpg,249,101,normal,10,1,230,101
+n131.jpg,249,101,normal,86,2,224,101
+n122.jpg,474,153,normal,5,3,473,153
+la26.JPEG,474,316,logical attack,4,3,450,316
+la26.JPEG,474,316,logical attack,128,3,386,316
+la26.JPEG,474,316,logical attack,137,17,358,275
+n165.jpg,474,266,normal,2,3,366,266
+sk13.jpg,275,183,skimming,3,33,129,183
+sk13.jpg,275,183,skimming,8,38,132,158
+m42.jpg,474,316,malware,12,2,470,316
+m42.jpg,474,316,malware,185,2,473,316
+r6.jpg,266,190,robbery,84,20,256,162
+n16.jpg,148,160,normal,9,12,148,155
+n16.jpg,148,160,normal,61,14,148,102
+r25.jpg,300,168,robbery,98,5,238,168
+r25.jpg,300,168,robbery,161,75,178,143
+pa67.jpg,299,168,physical attack,152,11,189,57
+pa67.jpg,299,168,physical attack,63,2,299,149
+pa133.jpg,275,183,physical attack,71,47,223,183
+pa133.jpg,275,183,physical attack,125,10,251,168
+oc24.jpg,474,346,occlusion,74,5,395,230
+oc24.jpg,474,346,occlusion,147,7,305,229
+os20.jpg,274,184,ATM out of service,24,4,255,184
+os20.jpg,274,184,ATM out of service,52,14,209,142
+pa137.jpg,297,170,physical attack,160,2,295,86
+pa137.jpg,297,170,physical attack,155,92,297,165
+pa137.jpg,297,170,physical attack,3,91,147,170
+pa137.jpg,297,170,physical attack,6,1,140,47
+cash tpn28.jpg,474,315,cash trapping,7,6,467,315
+cash tpn28.jpg,474,315,cash trapping,9,12,463,210
+cash tpn28.jpg,474,315,cash trapping,30,12,341,185
+n124.jpg,474,475,normal,18,86,463,475
+n124.jpg,474,475,normal,51,194,421,475
+os14.jpg,300,168,ATM out of service,53,3,262,168
+os14.jpg,300,168,ATM out of service,80,32,237,168
+trf24.jpg,320,157,physical attack,3,7,154,157
+trf24.jpg,320,157,physical attack,165,7,308,154
+cash tpn58.jpg,474,273,cash trapping,128,113,298,187
+pa5.jpg,389,129,physical attack,1,1,247,129
+pa5.jpg,389,129,physical attack,33,3,158,128
+m74.jpg,474,474,malware,4,6,474,470
+m74.jpg,474,474,malware,56,154,413,364
+m74.jpg,474,474,malware,65,120,466,474
+m74.jpg,474,474,malware,132,167,374,355
+m62.jpg,370,229,malware,203,56,245,84
+ctpn13.JPEG,474,326,card trapping,23,78,139,315
+ctpn13.JPEG,474,326,card trapping,14,65,135,193
+ctpn13.JPEG,474,326,card trapping,30,216,186,326
+r19.jpg,218,232,robbery,4,1,211,232
+j2.jpg,291,173,jackpotting,43,13,152,173
+j2.jpg,291,173,jackpotting,165,15,278,173
+m54.jpg,474,283,malware,42,4,471,268
+m54.jpg,474,283,malware,22,4,366,276
+r16.jpg,267,189,robbery,90,1,212,189
+n72.jpg,474,474,normal,332,103,474,427
+n148.jpg,474,384,normal,7,35,349,384
+oc38.jpg,474,316,occlusion,138,12,415,281
+oc33.jpg,217,237,occlusion,6,1,215,148
+oc33.jpg,217,237,occlusion,61,5,183,122
+cash tpn25.jpg,474,317,cash trapping,3,1,471,317
+cash tpn25.jpg,474,317,cash trapping,4,2,449,238
+cash tpn25.jpg,474,317,cash trapping,16,8,436,229
+m53.jpg,474,355,malware,77,5,457,355
+r57.jpg,284,177,robbery,77,1,197,177
+r57.jpg,284,177,robbery,103,13,165,74
+r11.jpg,259,194,robbery,1,5,232,194
+n204.jpg,474,248,normal,92,8,260,248
+n33.jpg,474,313,normal,48,31,470,288
+n33.jpg,474,313,normal,130,36,465,273
+n33.jpg,474,313,normal,17,6,474,241
+n174.jpg,300,300,normal,4,2,300,273
+n81.jpg,474,334,normal,3,1,473,332
+n81.jpg,474,334,normal,20,6,369,334
+n81.jpg,474,334,normal,66,56,298,334
+pa52.jpg,275,183,physical attack,33,5,275,181
+j.jpg,300,168,jackpotting,1,66,152,168
+j.jpg,300,168,jackpotting,1,2,149,168
+pa14.jpg,265,190,physical attack,5,3,152,132
+pa14.jpg,265,190,physical attack,92,13,154,84
+oc37.jpg,474,603,occlusion,50,194,445,435
+m36.jpg,474,355,malware,19,15,448,355
+n95.jpg,474,217,normal,252,111,464,217
+n200.jpg,474,266,normal,28,7,444,266
+n200.jpg,474,266,normal,95,53,263,265
+n47.jpg,474,315,normal,4,1,472,315
+n47.jpg,474,315,normal,226,5,473,303
+j16.jpg,268,188,jackpotting,8,5,268,187
+j16.jpg,268,188,jackpotting,31,1,266,186
+j16.jpg,268,188,jackpotting,34,27,158,180
+j16.jpg,268,188,jackpotting,24,14,143,184
+trf36.jpg,275,183,physical attack,11,6,275,177
+trf36.jpg,275,183,physical attack,69,2,243,141
+sk24.jpg,317,159,skimming,24,4,315,159
+sk24.jpg,317,159,skimming,70,31,300,159
+sk24.jpg,317,159,skimming,142,35,288,159
+sk24.jpg,317,159,skimming,81,33,226,133
+r72.jpg,310,163,robbery,15,20,141,141
+r72.jpg,310,163,robbery,11,4,160,104
+r72.jpg,310,163,robbery,174,22,305,139
+r72.jpg,310,163,robbery,48,51,104,82
+r72.jpg,310,163,robbery,187,69,254,123
+m52.jpg,474,263,malware,20,52,440,244
+cash tpn47.jpg,474,266,cash trapping,205,187,358,266
+trf26.jpg,254,198,physical attack,2,9,254,187
+trf26.jpg,254,198,physical attack,10,18,247,173
+n209.jpg,213,160,normal,16,1,210,160
+n114.jpg,474,249,normal,282,1,389,29
+os33.jpg,410,123,ATM out of service,34,2,409,121
+os33.jpg,410,123,ATM out of service,49,12,344,117
+os33.jpg,410,123,ATM out of service,64,15,184,96
+n205.jpg,474,368,normal,23,11,451,342
+n205.jpg,474,368,normal,75,131,410,336
+n175.jpg,474,355,normal,4,20,247,338
+pa16.jpg,177,285,physical attack,46,18,150,264
+pa16.jpg,177,285,physical attack,43,7,156,124
+n126.jpg,474,315,normal,125,2,474,289
+n126.jpg,474,315,normal,182,12,425,250
+oc32.jpg,474,474,occlusion,29,3,429,474
+oc32.jpg,474,474,occlusion,57,11,419,385
+n84.jpg,155,105,normal,43,61,113,99
+n210.jpg,233,160,normal,9,1,233,159
+os32.jpg,275,183,ATM out of service,14,11,260,171
+os32.jpg,275,183,ATM out of service,59,50,222,159
+pa85.jpg,225,225,physical attack,1,22,225,211
+pa85.jpg,225,225,physical attack,108,12,225,159
+n91.jpg,474,266,normal,4,1,474,264
+n83.jpg,474,266,normal,10,5,444,266
+oc39.jpg,474,355,occlusion,15,5,471,355
+oc39.jpg,474,355,occlusion,111,11,459,267
+m29.jpg,474,286,malware,10,1,473,179
+m29.jpg,474,286,malware,38,1,473,179
+n166.jpg,474,354,normal,3,1,464,354
+pa115.jpg,228,221,physical attack,3,4,228,204
+pa115.jpg,228,221,physical attack,23,9,228,210
+pa115.jpg,228,221,physical attack,27,12,221,204
+r52.jpg,299,168,robbery,58,1,270,168
+r52.jpg,299,168,robbery,129,4,261,167
+n151.jpg,474,767,normal,56,52,378,692
+os44.jpg,194,259,ATM out of service,18,53,193,189
+os44.jpg,194,259,ATM out of service,26,84,118,146
+cash tpn53.jpg,474,308,cash trapping,11,5,402,107
+cash tpn53.jpg,474,308,cash trapping,10,191,343,308
+n8.jpg,474,225,normal,11,4,432,225
+n8.jpg,474,225,normal,83,4,450,225
+n8.jpg,474,225,normal,137,20,291,218
+pa105.jpg,275,183,physical attack,5,30,232,148
+pa105.jpg,275,183,physical attack,52,45,203,142
+n45.jpg,474,266,normal,13,3,471,266
+os37.jpg,259,194,ATM out of service,1,6,248,194
+os37.jpg,259,194,ATM out of service,74,62,234,166
+n48.jpg,474,355,normal,11,7,466,354
+n48.jpg,474,355,normal,53,5,317,333
+pa103.jpg,262,193,physical attack,2,21,235,160
+pa103.jpg,262,193,physical attack,115,1,233,134
+pa58.jpg,275,183,physical attack,2,4,275,179
+pa58.jpg,275,183,physical attack,90,4,177,157
+pa58.jpg,275,183,physical attack,160,2,271,183
+la22.JPEG,474,212,logical attack,270,52,472,175
+n127.jpg,474,315,normal,255,12,474,293
+n67.jpg,474,320,normal,249,12,345,237
+m44.jpg,474,268,malware,123,191,264,236
+m44.jpg,474,268,malware,122,174,342,235
+r85.jpg,986,555,robbery,430,22,823,555
+r85.jpg,986,555,robbery,410,19,807,293
+oc46.jpg,474,273,occlusion,147,13,360,271
+pa34.jpg,224,224,physical attack,7,87,196,222
+n70.jpg,474,355,normal,28,7,432,321
+r58.jpg,287,176,robbery,8,5,287,175
+r58.jpg,287,176,robbery,4,2,285,95
+r58.jpg,287,176,robbery,134,2,287,84
+sk6.jpg,335,150,skimming,17,5,329,150
+oc66.jpg,260,280,occlusion,86,34,197,184
+ctpn31.JPEG,474,269,card trapping,3,2,474,262
+ctpn31.JPEG,474,269,card trapping,3,52,437,262
+ctpn31.JPEG,474,269,card trapping,3,94,474,233
+r68.jpg,222,227,robbery,6,18,222,224
+r68.jpg,222,227,robbery,12,39,220,193
+r68.jpg,222,227,robbery,85,5,222,174
+n214.jpg,285,160,normal,6,2,285,159
+n214.jpg,285,160,normal,87,4,161,149
+n214.jpg,285,160,normal,12,5,151,153
+n214.jpg,285,160,normal,6,1,237,155
+n214.jpg,285,160,normal,1,1,73,150
+n55.jpg,474,332,normal,23,5,473,328
+n55.jpg,474,332,normal,313,117,464,332
+pa89.jpg,233,216,physical attack,13,6,218,216
+n22.jpg,299,470,normal,2,2,295,442
+n22.jpg,299,470,normal,11,6,264,412
+n22.jpg,299,470,normal,10,218,299,464
+j21.jpg,311,162,jackpotting,11,6,178,162
+j21.jpg,311,162,jackpotting,31,25,180,162
+j21.jpg,311,162,jackpotting,21,84,174,156
+j21.jpg,311,162,jackpotting,14,4,117,161
+pa23.jpg,288,175,physical attack,122,33,238,156
+la23.JPEG,474,210,logical attack,35,22,468,206
+trf7.jpg,275,183,transaction reversal fraud,51,29,250,164
+pa51.jpg,301,167,physical attack,9,3,301,165
+pa51.jpg,301,167,physical attack,19,1,121,167
+m71.jpg,474,385,malware,112,115,271,303
+os41.jpg,194,259,ATM out of service,6,8,187,215
+os41.jpg,194,259,ATM out of service,44,45,155,127
+r56.jpg,249,202,robbery,42,19,241,194
+r56.jpg,249,202,robbery,152,22,235,192
+r56.jpg,249,202,robbery,20,23,147,187
+r23.jpg,300,168,robbery,7,2,299,168
+r23.jpg,300,168,robbery,51,7,236,168
+r23.jpg,300,168,robbery,77,1,298,168
+r23.jpg,300,168,robbery,77,65,235,168
+n49.jpg,474,316,normal,168,44,309,191
+n49.jpg,474,316,normal,48,3,396,316
+oc55.jpg,474,378,occlusion,110,7,312,203
+pa29.jpg,225,225,physical attack,3,60,225,176
+r76.jpg,284,177,robbery,34,6,179,113
+sk9.jpg,275,183,skimming,6,62,130,183
+sk9.jpg,275,183,skimming,31,72,128,178
+cash tpn23.jpg,474,354,cash trapping,149,217,349,331
+os38.jpg,309,163,ATM out of service,21,4,294,160
+os38.jpg,309,163,ATM out of service,36,16,178,106
+n38.jpg,148,160,normal,1,2,148,156
+n21.jpg,474,355,normal,9,46,429,342
+n21.jpg,474,355,normal,16,62,289,350
+n21.jpg,474,355,normal,8,40,241,312
+pa138.jpg,251,201,physical attack,22,7,251,175
+pa138.jpg,251,201,physical attack,68,12,233,175
+cash tpn56.jpg,474,355,cash trapping,7,8,469,355
+cash tpn56.jpg,474,355,cash trapping,141,195,330,355
+cash tpn56.jpg,474,355,cash trapping,117,10,470,354
+n24.jpg,197,160,normal,3,7,197,159
+n24.jpg,197,160,normal,1,72,186,160
+ctpn24.JPEG,474,266,card trapping,83,48,397,242
+ctpn24.JPEG,474,266,card trapping,90,55,232,215
+ctpn24.JPEG,474,266,card trapping,240,57,383,211
+ctpn24.JPEG,474,266,card trapping,105,79,228,207
+ctpn24.JPEG,474,266,card trapping,250,74,379,210
+ctpn24.JPEG,474,266,card trapping,144,119,215,200
+ctpn24.JPEG,474,266,card trapping,292,121,373,220
+oc70.jpg,474,301,occlusion,103,1,380,166
+trf15.jpg,275,183,transaction reversal fraud,32,50,169,183
+trf39.jpg,275,183,physical attack,108,54,229,181
+trf39.jpg,275,183,physical attack,84,49,255,129
+trf39.jpg,275,183,physical attack,95,44,216,113
+ctpn37.JPEG,390,285,card trapping,4,1,390,269
+ctpn37.JPEG,390,285,card trapping,35,1,215,177
+ctpn37.JPEG,390,285,card trapping,165,1,381,285
+oc44.jpg,474,355,occlusion,12,21,451,355
+oc44.jpg,474,355,occlusion,98,23,460,296
+oc44.jpg,474,355,occlusion,157,30,305,157
+aa11.jpg,194,259,physical attack,1,5,194,255
+aa11.jpg,194,259,physical attack,3,38,194,247
+pa39.jpg,288,175,physical attack,9,1,285,49
+pa39.jpg,288,175,physical attack,1,1,288,170
+pa39.jpg,288,175,physical attack,73,74,263,167
+pa39.jpg,288,175,physical attack,77,1,283,174
+pa84.jpg,284,178,physical attack,5,3,265,178
+pa55.jpg,299,168,physical attack,121,11,299,166
+m77.jpg,474,474,malware,1,66,196,378
+r44.jpg,290,174,robbery,17,72,290,171
+n73.jpg,474,316,normal,150,6,277,316
+pa90.jpg,262,193,physical attack,8,12,262,165
+pa90.jpg,262,193,physical attack,69,16,230,150
+pa90.jpg,262,193,physical attack,76,21,238,97
+trf41.jpg,275,183,physical attack,81,59,186,183
+trf41.jpg,275,183,physical attack,69,55,199,130
+n132.jpg,474,316,normal,4,6,474,314
+n132.jpg,474,316,normal,239,3,473,316
+cash tpn37.jpg,474,287,cash trapping,58,198,442,236
+r21.jpg,299,168,robbery,2,2,271,168
+r21.jpg,299,168,robbery,34,2,267,168
+r21.jpg,299,168,robbery,43,12,172,168
+r21.jpg,299,168,robbery,48,75,135,136
+r21.jpg,299,168,robbery,49,15,167,84
+r21.jpg,299,168,robbery,90,17,149,72
+ctpn41.JPEG,474,247,card trapping,17,1,473,247
+ctpn41.JPEG,474,247,card trapping,17,3,412,227
+ctpn41.JPEG,474,247,card trapping,194,5,413,104
+ctpn41.JPEG,474,247,card trapping,181,1,474,157
+ctpn41.JPEG,474,247,card trapping,143,119,380,247
+pa17.jpg,265,190,physical attack,54,11,265,105
+pa17.jpg,265,190,physical attack,53,11,150,93
+atm 20.jpg,300,137,logical attack,16,8,136,86
+r22.jpg,277,182,robbery,9,1,268,182
+r22.jpg,277,182,robbery,12,13,276,137
+m39.jpg,474,221,malware,9,3,465,221
+m39.jpg,474,221,malware,1,48,474,219
+os8.jpg,259,194,ATM out of service,38,25,259,192
+os8.jpg,259,194,ATM out of service,9,4,259,185
+m28.jpg,474,316,malware,15,15,465,302
+m28.jpg,474,316,malware,50,57,270,201
+la7.jpg,275,183,logical attack,1,3,203,182
+la7.jpg,275,183,logical attack,60,11,272,174
+la7.jpg,275,183,logical attack,66,49,268,171
+n106.jpg,474,632,normal,113,45,371,541
+os17.jpg,194,259,ATM out of service,4,4,190,246
+os17.jpg,194,259,ATM out of service,39,52,167,145
+ctpn44.JPEG,474,265,card trapping,4,2,474,259
+m37.jpg,474,286,malware,8,5,474,279
+m37.jpg,474,286,malware,10,1,473,184
+os36.jpg,259,194,ATM out of service,22,13,257,194
+os36.jpg,259,194,ATM out of service,54,32,242,164
+pa79.jpg,800,800,physical attack,114,105,750,780
+n161.jpg,474,316,normal,17,8,399,316
+trf37.jpg,275,183,physical attack,77,10,215,171
+trf37.jpg,275,183,physical attack,99,16,225,99
+n103.jpg,474,360,normal,3,27,291,176
+oc52.jpg,474,318,occlusion,15,1,231,318
+n152.jpg,300,300,normal,8,32,142,297
+pa43.jpg,300,168,physical attack,28,1,283,168
+pa43.jpg,300,168,physical attack,32,3,181,168
+pa43.jpg,300,168,physical attack,47,11,174,154
+pa43.jpg,300,168,physical attack,48,17,170,152
+pa43.jpg,300,168,physical attack,4,2,296,168
+sk22.jpg,259,194,skimming,103,28,259,186
+sk22.jpg,259,194,skimming,96,24,169,150
+n56.jpg,474,415,normal,123,206,323,412
+m26.jpg,474,266,malware,62,5,474,262
+os42.jpg,225,225,ATM out of service,3,6,219,207
+os42.jpg,225,225,ATM out of service,24,11,211,129
+pa53.jpg,283,178,physical attack,1,1,134,178
+pa53.jpg,283,178,physical attack,144,1,282,178
